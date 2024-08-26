@@ -1,7 +1,8 @@
-@ My notes
+@ My notes from course
 ## Day 1
 
-cos tam dopisane
+- how to install git
+- add commit status
 
 dopisane na stronie
 ## Day 2
