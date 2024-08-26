@@ -1,2 +1,2 @@
-# kursik
+# Kursik
 kursik github
